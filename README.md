@@ -2,4 +2,4 @@ made PSP emulator that renders samples and starts executing most real games: htt
 
 
 
-made Car.gr faster (ex Car.gr frontend lead )
+made Car.gr faster (ex frontend lead )
